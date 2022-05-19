@@ -30,4 +30,4 @@
 
 ## ライセンス
 
-[MIT]([./LICENCE](https://github.com/roxiga/OssDevelop/blob/main/LICENSE))
+![MIT](./LICENSE)
