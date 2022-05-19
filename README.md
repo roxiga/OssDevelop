@@ -30,4 +30,4 @@
 
 ## ライセンス
 
-![MIT](./LICENSE)
+[MIT License](https://raw.githubusercontent.com/roxiga/OssDevelop/main/LICENSE)
