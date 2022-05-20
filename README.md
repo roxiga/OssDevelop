@@ -18,7 +18,7 @@
 
 ## データベースの準備
 
-「MS SQL Server」の例えば「(localdb)\ProjectModels」Serverに「OssDevelopDB」データベースを追加して、「App.config」ファイルの「connectionString」にその「Server」名を指定し、「dbo.DiaryTable.sql」ファイルでテーブルを作成してください。
+「MS SQL Server」の例えば「(localdb)\ProjectModels」Serverに「OssDevelopDB」データベースを追加して、「App.config」ファイルの「connectionString」にその「Server」名を変更し、「dbo.DiaryTable.sql」ファイルでテーブルを作成してください。
 
 ## ビルド
 
