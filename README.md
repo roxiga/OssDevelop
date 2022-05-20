@@ -1,6 +1,6 @@
 # OssDevelop
 
-å¹´ã”ã¨ãƒ»æœˆã”ã¨ãƒ»æ—¥ã”ã¨ã®ã‚«ãƒ¬ãƒ³ãƒ€ãƒ¼ã¨ç”»åƒã‚‚ä¿å­˜ã§ãã‚‹æ—¥è¨˜ã‚¢ãƒ—ãƒªã§ã™ã€‚
+”N‚²‚ÆEŒŽ‚²‚ÆE“ú‚²‚Æ‚ÌƒJƒŒƒ“ƒ_[‚Æ‰æ‘œ‚à•Û‘¶‚Å‚«‚é“ú‹LƒAƒvƒŠ‚Å‚·B
 
 ![YearImage](./images/year.png)
 
@@ -8,26 +8,26 @@
 
 ![DayImage](./images/day.png)
 
-## ã¯ã˜ã‚ã«
+## ‚Í‚¶‚ß‚É
 
-ã‚‚ã£ã¨ä¾¿åˆ©ãªã‚«ãƒ¬ãƒ³ãƒ€ãƒ¼ä»˜ãã®æ—¥è¨˜ã‚¢ãƒ—ãƒªãŒæ¬²ã—ãã¦ã€ŒOssDevelopã€ã‚’ä½œã‚Šã¾ã—ãŸã€‚
+‚à‚Á‚Æ•Ö—˜‚ÈƒJƒŒƒ“ƒ_[•t‚«‚Ì“ú‹LƒAƒvƒŠ‚ª—~‚µ‚­‚ÄuOssDevelopv‚ðì‚è‚Ü‚µ‚½B
 
-## å¿…è¦æ¡ä»¶
+## •K—vðŒ
 
-ã€ŒVisual Studio 2022ã€ã€ŒMS SQL Serverã€ãŒå¿…è¦ã§ã™ã€‚
+uVisual Studio 2022vuMS SQL Serverv‚ª•K—v‚Å‚·B
 
-## ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹ã®æº–å‚™
+## ƒf[ƒ^ƒx[ƒX‚Ì€”õ
 
-ã€ŒMS SQL Serverã€ã«ã€ŒOssDevelopDBã€ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹ã‚’è¿½åŠ ã—ã¦ã€ã€Œdbo.DiaryTable.sqlã€ãƒ•ã‚¡ã‚¤ãƒ«ã§ãƒ†ãƒ¼ãƒ–ãƒ«ã‚’ä½œæˆã—ã¦ãã ã•ã„ã€‚
+uMS SQL Serverv‚Ì—á‚¦‚Îu(localdb)\ProjectModelsvServer‚ÉuOssDevelopDBvƒf[ƒ^ƒx[ƒX‚ð’Ç‰Á‚µ‚ÄAuApp.configvƒtƒ@ƒCƒ‹‚ÌuconnectionStringv‚É‚»‚ÌuServerv–¼‚ðŽw’è‚µAudbo.DiaryTable.sqlvƒtƒ@ƒCƒ‹‚Åƒe[ƒuƒ‹‚ðì¬‚µ‚Ä‚­‚¾‚³‚¢B
 
-## ãƒ“ãƒ«ãƒ‰
+## ƒrƒ‹ƒh
 
-ã€ŒVisual Studioã€ã§ã€ŒOssDevelop.slnã€ãƒ•ã‚¡ã‚¤ãƒ«ã‚’é–‹ã„ã¦ãƒ“ãƒ«ãƒ‰ã—ã¦ãã ã•ã„ã€‚
+uVisual Studiov‚ÅuOssDevelop.slnvƒtƒ@ƒCƒ‹‚ðŠJ‚¢‚Äƒrƒ‹ƒh‚µ‚Ä‚­‚¾‚³‚¢B
 
-## å®Ÿè¡Œ
+## ŽÀs
 
-ã€ŒWindows 10ã€ä»¥é™ã§å®Ÿè¡Œã—ã¦ãã ã•ã„ã€‚
+uWindows 10vˆÈ~‚ÅŽÀs‚µ‚Ä‚­‚¾‚³‚¢B
 
-## ãƒ©ã‚¤ã‚»ãƒ³ã‚¹
+## ƒ‰ƒCƒZƒ“ƒX
 
 [MIT License](https://raw.githubusercontent.com/roxiga/OssDevelop/main/LICENSE)
